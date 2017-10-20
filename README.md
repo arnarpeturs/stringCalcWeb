@@ -4,8 +4,7 @@ Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
 # Continuous Integration with Travis & Heroku
 ## This repo
-Status: 
-[![Build Status](https://travis-ci.org/arnarpeturs/stringCalcWeb.svg?branch=master.png)](https://travis-ci.org/arnarpeturs/stringCalcWeb.svg?branch=master
+Status: [![Build Status](https://travis-ci.org/arnarpeturs/stringCalcWeb.svg?branch=master)](https://travis-ci.org/arnarpeturs/stringCalcWeb)
 
 
 Is a very simple Spark Web application, built with Gradle.
